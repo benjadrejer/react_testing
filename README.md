@@ -1,3 +1,6 @@
+Very simple app set up using create-react-app displaying some unit & integration tests using Jest & Enzyme.
+
+---------------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
